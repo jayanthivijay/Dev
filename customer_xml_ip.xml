@@ -1,0 +1,17 @@
+<CUSTOMER>
+<Customer-details>
+<cust_id>1000</cust_id>
+<cust_name>Arun Kumar</cust_name>
+<cust_mobile>9090909090</cust_mobile>
+</Customer-details>
+<Customer-details>
+<cust_id>1001</cust_id>
+<cust_name>Babu Kannan</cust_name>
+<cust_mobile>9090909092</cust_mobile>
+</Customer-details>
+<Customer-details>
+<cust_id>1002</cust_id>
+<cust_name>John Paul</cust_name>
+<cust_mobile>9090909089</cust_mobile>
+</Customer-details>
+</CUSTOMER>
